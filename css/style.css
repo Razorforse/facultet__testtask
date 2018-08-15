@@ -54,6 +54,10 @@ hr {
     border: none;
 }
 
+ol ul {
+	padding: 0;
+}
+
 ul li {
 	font-family: 'Lora', serif;
 	list-style-type: none;
@@ -106,13 +110,6 @@ table {
 	width: 50%;
 }
 
-.table-two {
-	width: 100%;
-}
-
-.table-three {
-	width: 100%;
-}
 
 .table-three__position {
 	font-weight: bold;
